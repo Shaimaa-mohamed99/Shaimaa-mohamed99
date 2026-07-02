@@ -1,22 +1,84 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Shaimaa+Mohammed" />
+</a>
 
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+%7C+Software+Developer" />
+</a>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shaimaa-mohamed99&label=Profile%20views&color=252da1&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
-<!-- markdownlint-enable MD033 -->
+I am a Computer Science student passionate about Software Development and DevOps Engineering.
 
+- Deepening my knowledge in Linux system administration  
+- Experienced with DevOps tools: Docker, Kubernetes, Jenkins, Nginx, Git, AWS, Prometheus  
+- Currently developing a Flutter graduation project (mobile application)  
+- Interested in building scalable systems and automation workflows  
+- Continuously learning modern technologies in software and cloud computing  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-```
+---
 
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/shaimaa-mohamed-62a532316">
+  LinkedIn | Shaimaa Mohammed
+</a>
+
+<br>
+
+<a href="mailto:mhmdbdalshyma@gmail.com">
+  Email Me
+</a>
+
+---
+
+## 🚀💻 Technologies & Tools
+
+### Languages:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### DevOps Tools:
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+### Version Control:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### Currently Learning:
+- Linux (advanced system administration)
+- Flutter (mobile development)
+
+---
+
+## 🎯 Goals
+- Become a strong **DevOps Engineer**
+- Build scalable cloud-based systems
+- Improve software architecture and backend skills
+- Grow as a full-stack & cloud developer
+
+---
+
+⭐ Thank you for visiting my profile!
