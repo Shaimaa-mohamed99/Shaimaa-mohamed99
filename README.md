@@ -33,9 +33,6 @@ I am a Computer Science student passionate about Software Development and DevOps
 
 <hr>
 
-
----
-
 ## 🚀💻 Technologies & Tools
 
 ### Languages:
