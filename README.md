@@ -26,15 +26,13 @@ I am a Computer Science student passionate about Software Development and DevOps
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/shaimaa-mohamed-62a532316">
-  LinkedIn | Shaimaa Mohammed
-</a>
+<h3 align="left">Connect with me:</h3>
 
-<br>
+<a href="[https://www.linkedin.com/in/fawzya-said195](https://www.linkedin.com/in/shaimaa-mohamed-62a532316)"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Fawzya Said</a>
+<a href="mailto:mhmdbdalshyma@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Fawzya Said</a>
 
-<a href="mailto:mhmdbdalshyma@gmail.com">
-  Email Me
-</a>
+<hr>
+
 
 ---
 
