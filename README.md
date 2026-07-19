@@ -8,12 +8,13 @@
 
 ---
 
+## 📄 Resume
+
 <p align="left">
-  <a href="https://drive.google.com/file/d/1zgvOsqkSHzGK7QgnTbC6lB6Rfdgaafez/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20File-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1zgvOsqkSHzGK7QgnTbC6lB6Rfdgaafez/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
-
 
 ## 🚀 About Me
 
